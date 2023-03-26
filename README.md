@@ -5,7 +5,7 @@
 4. "Script_Realtime_trading_Ensemble_learning_Quantopain.py" was run on the qunatopian website to perform realtime trading
 
 
-link to paper: https://doi.org/10.1504/IJCSE.2023.129152
+link to published paper: https://doi.org/10.1504/IJCSE.2023.129152
 
 preprint v2: https://arxiv.org/abs/2107.13148
 
